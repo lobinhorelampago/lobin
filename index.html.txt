@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOBINHO RELAMPAGO</title>
+</head>
+<body style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #000000; color: #ffffff;">
+
+    <h2>Acesse nosso Grupo do WhatsApp</h2>
+    <p>entrar no grupo:</p>
+    
+    <a href="https://linktr.ee/LOBINHORELAMPAGO" target="_blank">
+        <button style="padding: 15px 30px; font-size: 18px; cursor: pointer; color: #ffffff; background-color: #25D366; border: none; border-radius: 5px;">
+            Entrar no Grupo
+        </button>
+    </a>
+
+</body>
+</html>
+
